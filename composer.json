@@ -8,6 +8,9 @@
     "authors": [
         {"name": "Louis-Philippe Huberdeau", "email": "lphuberdeau@gmail.com", "homepage": "http://lphuberdeau.com"}
     ],
+    "repositories": [
+        {"type": "git", "url": "https://github.com/jadell/neo4jphp.git"}
+    ],
     "require": {
         "php": ">=5.3.2",
         "doctrine/common": ">=2.2.0,<2.5.0-dev",
